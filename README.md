@@ -1,6 +1,6 @@
 # Nabokov 0.0.1
 
-<!-- ![alt text](http://nabokovsecrethistory.com/news/wp-content/uploads/2013/01/Vladimir_Nabokov_immigration_file_10_small.jpg) -->
+![alt text](https://github.com/lucascr91/nabokov_0.0.1/blob/master/VN_passport.jpg?raw=true)
 
 Vladimir Nabokov was a Russian novelist born into a vastly wealthy family and who had a first-class education under the instructions of a multitude of tutors. As he claims in his famous autobiography ["Speak, memory"](https://www.amazon.com/Speak-Memory-Autobiography-Revisited-International-ebook/dp/B004KABDWA), he learns to read in English before learning to read in Russian and was common to him hear stories narrated in English by his mother before going to bed. In a family that spoke Russian, English, and French in their daily life, Nabokov was - not surprisingly - already trilingual by the age of 12. 
 
